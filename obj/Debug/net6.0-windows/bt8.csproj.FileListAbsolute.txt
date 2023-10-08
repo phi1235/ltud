@@ -1,0 +1,16 @@
+E:\WINFORM\bt8\bt8\bin\Debug\net6.0-windows\bt8.exe
+E:\WINFORM\bt8\bt8\bin\Debug\net6.0-windows\bt8.deps.json
+E:\WINFORM\bt8\bt8\bin\Debug\net6.0-windows\bt8.runtimeconfig.json
+E:\WINFORM\bt8\bt8\bin\Debug\net6.0-windows\bt8.dll
+E:\WINFORM\bt8\bt8\bin\Debug\net6.0-windows\bt8.pdb
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.Form1.resources
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.csproj.GenerateResource.cache
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.GeneratedMSBuildEditorConfig.editorconfig
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.AssemblyInfoInputs.cache
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.AssemblyInfo.cs
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.csproj.CoreCompileInputs.cache
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.dll
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\refint\bt8.dll
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.pdb
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\bt8.genruntimeconfig.cache
+E:\WINFORM\bt8\bt8\obj\Debug\net6.0-windows\ref\bt8.dll
